@@ -17,6 +17,9 @@ Python Asyncronous Proxy Checker
 
 <br>
 
+## Tutorial
+<a href="https://youtu.be/ihSmcZDU_x0" target=_blank>**click here**</a>
+
 ## Features
 
 - Proxy Scraper
