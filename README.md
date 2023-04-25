@@ -45,7 +45,7 @@ Python Asyncronous Proxy Checker
 <a href="https://github.com/InferiorAK"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://fb.com/InferiorAK"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://m.me/InferiorAK"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/InferiorAK"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
+<a href="https://www.instagram.com/InferiorAK"><img align="left" title="Twitter" alt="Twitter" width="40px" src="assets/twitter.png" /></a>
 
 <br>
 
@@ -53,15 +53,15 @@ Python Asyncronous Proxy Checker
 
 - Clone this repository -
   ```
-  git clone https://github.com/inferiorak/MiProxy
+  git clone https://github.com/inferiorak/MiProxy2
   ```
 
 - Now go to cloned directory -
   ```
-  $ cd MiProxy
+  $ cd MiProxy2
   $ pip3 install -r requirements.txt
   $ clear
-  $ python3 miproxy.py
+  $ python3 miproxy2.py
   ```
   
  ## Overview
