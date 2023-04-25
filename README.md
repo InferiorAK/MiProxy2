@@ -68,9 +68,9 @@ Python Asyncronous Proxy Checker
  
  ```
  root@kali:~$ python3 miproxy.py -h
-usage: miproxy.py [options]
+usage: miproxy2.py [options]
 
-Proxy Tool by MiTaseen
+Proxy Tool by InferiorAK
 
 options:
   -h, --help            show this help message and exit
@@ -84,46 +84,30 @@ options:
                         Set Proxy Type
   -t [TIMEOUT], --timeout [TIMEOUT]
                         Set Timeout
+  --upgrade             Upgrade Tool
+  --clean               Clean pycache
   -v, --version         Print Version
 
 Generate Random IP:
-  Usage: python miproxy.py --generate --count [LOOP_COUNT] -o [out.ext]
+  Usage: python miproxy2.py --generate --count [LOOP_COUNT] -o [out.ext]
 
   -g, --generate        Generate IP (Mode)
   -c [LOOP_COUNT], --count [LOOP_COUNT]
                         Amount of IP
 
 Scrape Proxies:
-  Usage: python miproxy.py --scrape -api [API_LINK] -o [out.ext]
+  Usage: python miproxy2.py --scrape -api [API_LINK] -o [out.ext]
 
   -sc, --scrape         Scrape Proxies with API (Mode)
   -api [API_LINK]       Paste your api
 
 Check Proxies:
-  Usage: python miproxy.py --check -f [proxies.txt] --type [http/socks4/socks5] -t
-  [second] -o [out.ext] -dC/-dc/-rn/-ct/-dt/-isp/-zip/-lc/-all
+  Usage: python miproxy2.py --check -f [proxies.txt] --type [http/socks4/socks5] -t [second] -o [out.ext] --all
 
   --check               Check Proxies (Mode)
-  -dC, --dump-continent
-                        Get Proxy Continent
-  -dc, --dump-country   Get Proxy Country
-  -rn, --region-name    Proxy region name
-  -ct, --city           proxy city
-  -dt, --district       proxy district
-  -isp                  Proxy ISP
-  -zip                  Country zip code
-  -lc, --location       Proxy Location
-  -a, --all             Dump All info
-
-Check Proxies with custom url:
-  Usage: python miproxy.py --check -u [test_url] -f [proxies.txt] --type
-  [http/socks4/socks5] -t [second] -o [out.ext]
-
-  -u [TEST_URL_LINK], --url [TEST_URL_LINK]
-                        Proxy Checker URL
 
 Add Port:
-  Usage: python miproxy.py --add -f [ip_file.txt] -p [port] -o [out.ext]
+  Usage: python miproxy2.py --add -f [ip_file.txt] -p [port] -o [out.ext]
 
   --add                 Add Port to IP (Mode)
 ```
