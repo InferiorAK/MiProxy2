@@ -45,7 +45,8 @@ Python Asyncronous Proxy Checker
 <a href="https://github.com/InferiorAK"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://fb.com/InferiorAK"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://m.me/InferiorAK"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/InferiorAK"><img align="left" title="Twitter" alt="Twitter" width="40px" src="assets/twitter.png" /></a>
+<a href="https://youtube.com/@InferiorAK"><img align="left" title="Youtube" alt="Youtube" width="43px" src="assets/youtube.png" /></a>
+<a href="https://twitter.com/InferiorAK"><img align="left" title="Twitter" alt="Twitter" width="40px" src="assets/twitter.png" /></a>
 
 <br>
 
