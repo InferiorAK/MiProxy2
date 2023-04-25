@@ -1,5 +1,9 @@
 # MiProxy2
-Python Asyncronous Proxy Checker
+<b>Python Asyncronous Proxy Checker</b>
+
+<p>
+  <img src="https://user-images.githubusercontent.com/114951279/234237457-27830948-e939-45bb-9a51-0d27ef57df59.jpg">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
