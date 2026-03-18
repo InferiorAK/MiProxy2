@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-InferiorAK-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python3.11.1-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finferiorak%2FMiProxy2&title=Visitors&edge_flat=false"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=InferiorAK.MiProxy2" alt="Visitors">
 </p>
 
 <br>
